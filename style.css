@@ -63,11 +63,6 @@ header {
     background: #222;
 }
 
-section {
-    background: #ccc;
-    display: flex;
-}
-
 div {
     background: red;
     flex: 5;
