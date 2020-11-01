@@ -35,3 +35,45 @@ p {
 article {
     border-bottom: 1px solid #000000;
 }
+
+.sticky, .position-demo {
+    color: white;
+    padding: 20px;
+}
+
+.sticky {
+    background: green;
+    position: sticky;
+    top: 0;
+}
+
+.position-demo {
+    background: blue;
+}
+
+.img-container {
+    background: blue;
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin-left: 10px;
+}
+
+header {
+    background: #222;
+}
+
+section {
+    background: #ccc;
+    display: flex;
+}
+
+div {
+    background: red;
+    flex: 5;
+}
+
+aside {
+    background: royalblue;
+    flex: 1;
+}
